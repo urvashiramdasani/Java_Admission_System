@@ -1,0 +1,5 @@
+Name : Tirth Patel	Date of birth : 01/18/2000	Contact Number : 9876543212	Electrical
+Name : Sunidhi Tandel	Date of birth : 04/19/2000	Contact Number : 9876543214	Electronics And Communiaction
+Name : Vansh Kamdar	Date of birth : 03/30/2000	Contact Number : 9876543213	Computer Science
+Name : Raj Singh	Date Of Birth :01/01/2000	Contact Number :9876543211	Admission Cancelled
+Name : Urvashi	Date Of Birth :01/09/2001	Contact Number :9876543211	Admission Cancelled
