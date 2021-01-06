@@ -1,0 +1,17 @@
+ 
+    Here are the Branches available under Institute of Technology : -
+
+	1. Computer Science and Engineering
+	2. Electronics and Communication Engineering
+	3. Mechanical Engineering
+	4. Electrical Engineering
+	5. Instrumentation and Control Engineering
+	6. Chemical Engineering
+	7. Civil Engineering
+
+-------------------------------------------------------------------------------
+
+    Enter your Preferences according to the corresponding numbers...
+    Kindly enter your choices priority-wise...
+
+-------------------------------------------------------------------------------
